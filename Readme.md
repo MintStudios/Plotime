@@ -1,4 +1,3 @@
-# Source code for the video "Using GraphEdit and GraphNode to create flow charts"
+# Organize your plots without confusing yourself
 
-https://www.youtube.com/watch?v=ZD9X3uvyWmg
-
+Plotime will help your plot stick, and in a handy timeline view.
